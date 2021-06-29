@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd9d014d0b67b801c77d2611df020235",
+    "revision": "d318ef5dd72f639fcfc0f66531abbc7c",
     "url": "/CrypTracker/index.html"
   },
   {
-    "revision": "a5ffb4322ac1827fa744",
-    "url": "/CrypTracker/static/css/main.09c5e235.chunk.css"
+    "revision": "9e15e0121a9dad40abef",
+    "url": "/CrypTracker/static/css/main.3e993433.chunk.css"
   },
   {
     "revision": "beb5c06e5ffb72c2b1db",
     "url": "/CrypTracker/static/js/2.5d452e61.chunk.js"
   },
   {
-    "revision": "a5ffb4322ac1827fa744",
+    "revision": "9e15e0121a9dad40abef",
     "url": "/CrypTracker/static/js/main.8404118a.chunk.js"
   },
   {
