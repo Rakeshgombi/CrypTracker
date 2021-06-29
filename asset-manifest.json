@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/CrypTracker/static/css/main.3e993433.chunk.css",
-    "main.js": "/CrypTracker/static/js/main.8404118a.chunk.js",
-    "main.js.map": "/CrypTracker/static/js/main.8404118a.chunk.js.map",
+    "main.js": "/CrypTracker/static/js/main.6a24c9ed.chunk.js",
+    "main.js.map": "/CrypTracker/static/js/main.6a24c9ed.chunk.js.map",
     "runtime-main.js": "/CrypTracker/static/js/runtime-main.3b04de14.js",
     "runtime-main.js.map": "/CrypTracker/static/js/runtime-main.3b04de14.js.map",
-    "static/js/2.5d452e61.chunk.js": "/CrypTracker/static/js/2.5d452e61.chunk.js",
-    "static/js/2.5d452e61.chunk.js.map": "/CrypTracker/static/js/2.5d452e61.chunk.js.map",
+    "static/js/2.e1258fa5.chunk.js": "/CrypTracker/static/js/2.e1258fa5.chunk.js",
+    "static/js/2.e1258fa5.chunk.js.map": "/CrypTracker/static/js/2.e1258fa5.chunk.js.map",
     "index.html": "/CrypTracker/index.html",
-    "precache-manifest.6afecd195c02a3878c44cc83d7566828.js": "/CrypTracker/precache-manifest.6afecd195c02a3878c44cc83d7566828.js",
+    "precache-manifest.c8a7ca79d39e22c40eb997a62d7fb675.js": "/CrypTracker/precache-manifest.c8a7ca79d39e22c40eb997a62d7fb675.js",
     "service-worker.js": "/CrypTracker/service-worker.js",
     "static/css/main.3e993433.chunk.css.map": "/CrypTracker/static/css/main.3e993433.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3b04de14.js",
-    "static/js/2.5d452e61.chunk.js",
+    "static/js/2.e1258fa5.chunk.js",
     "static/css/main.3e993433.chunk.css",
-    "static/js/main.8404118a.chunk.js"
+    "static/js/main.6a24c9ed.chunk.js"
   ]
 }

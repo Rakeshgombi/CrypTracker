@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CrypTracker/precache-manifest.6afecd195c02a3878c44cc83d7566828.js"
+  "/CrypTracker/precache-manifest.c8a7ca79d39e22c40eb997a62d7fb675.js"
 );
 
 self.addEventListener('message', (event) => {
