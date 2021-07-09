@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CrypTracker/static/css/main.3e993433.chunk.css",
-    "main.js": "/CrypTracker/static/js/main.6a24c9ed.chunk.js",
-    "main.js.map": "/CrypTracker/static/js/main.6a24c9ed.chunk.js.map",
+    "main.css": "/CrypTracker/static/css/main.3d96036d.chunk.css",
+    "main.js": "/CrypTracker/static/js/main.5364b64e.chunk.js",
+    "main.js.map": "/CrypTracker/static/js/main.5364b64e.chunk.js.map",
     "runtime-main.js": "/CrypTracker/static/js/runtime-main.3b04de14.js",
     "runtime-main.js.map": "/CrypTracker/static/js/runtime-main.3b04de14.js.map",
-    "static/js/2.e1258fa5.chunk.js": "/CrypTracker/static/js/2.e1258fa5.chunk.js",
-    "static/js/2.e1258fa5.chunk.js.map": "/CrypTracker/static/js/2.e1258fa5.chunk.js.map",
+    "static/js/2.12b41bf8.chunk.js": "/CrypTracker/static/js/2.12b41bf8.chunk.js",
+    "static/js/2.12b41bf8.chunk.js.map": "/CrypTracker/static/js/2.12b41bf8.chunk.js.map",
     "index.html": "/CrypTracker/index.html",
-    "precache-manifest.c8a7ca79d39e22c40eb997a62d7fb675.js": "/CrypTracker/precache-manifest.c8a7ca79d39e22c40eb997a62d7fb675.js",
+    "precache-manifest.9db5de59677897c654e1b837a6181d8a.js": "/CrypTracker/precache-manifest.9db5de59677897c654e1b837a6181d8a.js",
     "service-worker.js": "/CrypTracker/service-worker.js",
-    "static/css/main.3e993433.chunk.css.map": "/CrypTracker/static/css/main.3e993433.chunk.css.map"
+    "static/css/main.3d96036d.chunk.css.map": "/CrypTracker/static/css/main.3d96036d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3b04de14.js",
-    "static/js/2.e1258fa5.chunk.js",
-    "static/css/main.3e993433.chunk.css",
-    "static/js/main.6a24c9ed.chunk.js"
+    "static/js/2.12b41bf8.chunk.js",
+    "static/css/main.3d96036d.chunk.css",
+    "static/js/main.5364b64e.chunk.js"
   ]
 }
